@@ -18,9 +18,8 @@ comment on something using your authenticated Twitter session.
 
 This just flips back and forth with a right-click context menu.
 
-
 # Install
-1. Clone this repo or if you dont wanna do that you can just download [this zip file.](https://github.com/s7ephen/nitter2twitter/blob/main/Nitter2Twitter.zip)
+1. Clone this repo or if you dont wanna do that you can just download [this zip file.](https://github.com/s7ephen/nitter2twitter/raw/main/Nitter2Twitter.zip)
 2. Unzip the zip file to it's own directory "Nitter2Twitter"
 3. Open the [Chrome Extensions Menu](chrome://extensions). `chrome://extensions`
 4. Flip the "Developer Switch" which lets you use your own extensions without the "Extension Store".
