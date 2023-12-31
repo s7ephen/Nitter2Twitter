@@ -6,6 +6,7 @@ and vice versa: right-click Nitter links and open them in Twitter.
 It's stupid simple, so if you wanna improve it (like add logic to the javascript, nest the context-menu, etc) please feel free 
 and do a pull request.
 
+[MP4 Video](screencap/Nitter2Twitter_faster_compressed.mp4)
 ![Demo](screencap/Nitter2Twitter_faster_compressed.gif)
 
 # Why?
