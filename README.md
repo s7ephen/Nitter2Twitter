@@ -32,6 +32,6 @@ This just flips back and forth with a right-click context menu.
 7. Load Nitter or Twitter and right click on a link.
 ![Load Twitter or Nitter URL](screencap/Nitter2TwitterContextMenu.png)
  
-Credit:
+# Credit
 The icons are from: https://kyrise.itch.io/kyrises-free-16x16-rpg-icon-pack
 I was gonna use a [Dwarf Fortress](https://en.wikipedia.org/wiki/Dwarf_Fortress) icon, but decided against it ;-)
