@@ -1,0 +1,15 @@
+{
+  "manifest_version": 2,
+  "description": "A Right-Click menu for switching back and forth between Nitter and Twitter.",
+  "name": "Nitter2Twitter",
+  "version": "0.1.1",
+  "icons": { 
+    "16": "icon16.png",
+    "48": "icon48.png"
+  },
+  "permissions": ["contextMenus"],
+  "background": { 
+    "scripts": ["background.js"],
+    "persistent": false
+   }
+}
